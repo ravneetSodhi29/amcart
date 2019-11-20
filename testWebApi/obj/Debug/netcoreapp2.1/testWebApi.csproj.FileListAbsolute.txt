@@ -1,0 +1,16 @@
+D:\AmcartTeam-new\testWebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\AmcartTeam-new\testWebApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\AmcartTeam-new\testWebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\AmcartTeam-new\testWebApi\bin\Debug\netcoreapp2.1\testWebApi.deps.json
+D:\AmcartTeam-new\testWebApi\bin\Debug\netcoreapp2.1\testWebApi.runtimeconfig.json
+D:\AmcartTeam-new\testWebApi\bin\Debug\netcoreapp2.1\testWebApi.runtimeconfig.dev.json
+D:\AmcartTeam-new\testWebApi\bin\Debug\netcoreapp2.1\testWebApi.dll
+D:\AmcartTeam-new\testWebApi\bin\Debug\netcoreapp2.1\testWebApi.pdb
+D:\AmcartTeam-new\testWebApi\obj\Debug\netcoreapp2.1\testWebApi.RazorAssemblyInfo.cache
+D:\AmcartTeam-new\testWebApi\obj\Debug\netcoreapp2.1\testWebApi.RazorAssemblyInfo.cs
+D:\AmcartTeam-new\testWebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\AmcartTeam-new\testWebApi\obj\Debug\netcoreapp2.1\testWebApi.AssemblyInfoInputs.cache
+D:\AmcartTeam-new\testWebApi\obj\Debug\netcoreapp2.1\testWebApi.AssemblyInfo.cs
+D:\AmcartTeam-new\testWebApi\obj\Debug\netcoreapp2.1\testWebApi.RazorTargetAssemblyInfo.cache
+D:\AmcartTeam-new\testWebApi\obj\Debug\netcoreapp2.1\testWebApi.dll
+D:\AmcartTeam-new\testWebApi\obj\Debug\netcoreapp2.1\testWebApi.pdb

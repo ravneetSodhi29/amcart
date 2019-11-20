@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/AmCart v1.0
+/AmCart.IdentityServer/bin/Debug/netcoreapp3.0
+/AmCart.IdentityServer/obj
